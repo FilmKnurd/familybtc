@@ -19,9 +19,9 @@ Have fun watching your pile of gold grow :smile:
 - [Strike](invite.strike.me/2VRX2J) 
     - Good learning resources
     - Easy to use 
-- [Swan](swan.com/elster) 
+- [Swan](https://swan.com/elster) 
     - Also has a great IRA product if you want to stack sats for retirement.
-- [Kraken](kraken.com)
+- [Kraken](https://kraken.com)
     - Pro trading features
     - Excellent customer support
 
