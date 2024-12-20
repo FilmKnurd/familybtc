@@ -16,7 +16,7 @@ Have fun watching your pile of gold grow :smile:
 
 - [River](https://river.com/signup?r=GX7UOWKY) 
     - Besides the usual BTC purchasing, you can also create an account to hold USD and earn interest in BTC. 
-- [Strike](invite.strike.me/2VRX2J) 
+- [Strike](https://invite.strike.me/2VRX2J) 
     - Good learning resources
     - Easy to use 
 - [Swan](https://swan.com/elster) 
