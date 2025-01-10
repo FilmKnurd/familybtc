@@ -1,6 +1,6 @@
 # What the heck did I just get?
 
-This is probably a weird and super nerdy gift, but you are basically holding in your hands a brick of digital gold (Bitcoin or BTC). Like gold, anyone who has this cold storage wallet has the money and can spend it, so keep it hidden in a safe.
+This is probably a weird and super nerdy gift, but you are basically holding in your hands a brick of digital gold (Bitcoin or BTC). It is a hardware wallet with no electronic components, so it is safe from hackers. However, Like a brick of gold, anyone who has this card has everything they need to spend the bitcoin. Keep it hidden in a safe. 
 
 The smallest unit of BTC is called a Satoshi or sat, named after the psuedonym of the creator of Bitcoin. To see how many sats you have and the value of those sats in dollars, download the [Ballet app](https://www.ballet.com/app/) and scan the QR code on the face of the wallet.
 
@@ -13,6 +13,7 @@ You will want to stack sats over time, and the easiest way to do that is to
 Have fun watching your pile of gold grow :smile:
 
 ### Exchanges
+These are all excellent and reputable services that I use. I have an IRA with Swan, and for general stacking I use River. I find Strike to be an easy way to quickly buy BTC and send it. 
 
 - [River](https://river.com/signup?r=GX7UOWKY) 
     - Besides the usual BTC purchasing, you can also create an account to hold USD and earn interest in BTC. 
@@ -24,10 +25,14 @@ Have fun watching your pile of gold grow :smile:
 - [Kraken](https://kraken.com)
     - Pro trading features
     - Excellent customer support
+- [Hodl Hodl](https://hodlhodl.com)
+    - Private (No KYC)
+    - Peer to peer exchange
+
 
 ## Other Resources
 
-The world of crypoto currencies is huge, obscurly technical, and full of scams. Bitcoin is the original and has unique properties that make it a revolutionary monetary system. Here are some resources if you want to go down the rabbit hole and learn what bitcoin is and its significance.
+The world of crypoto currencies is huge, obscurly technical, and full of scams. Bitcoin is the original and has unique properties that make it a revolutionary monetary system. I don't mess with altcoins and I don't encourage you too either. Here are some resources if you want to go down the rabbit hole and learn what bitcoin is and its significance.
 
 - [River Introduction](https://river.com/learn/)
 - [Strike Introduction](https://strike.me/learn/)
